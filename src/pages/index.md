@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: We can send you to outer space
 image: /img/142413-apps-feature-art-and-science-collide-the-best-in-modern-space-art-image1-iha6vzu3wk-jpg.webp
 heading: We can send you to outer space
 subheading: If thats where you really want to go!
